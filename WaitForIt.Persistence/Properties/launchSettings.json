@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WaitForIt.Persistence": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55733;http://localhost:55734"
+    }
+  }
+}
